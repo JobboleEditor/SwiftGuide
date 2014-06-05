@@ -75,4 +75,4 @@ Swift中文教程
 2. [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html#//apple_ref/doc/uid/TP40014216)
 
 ##友情链接
-1. [Swift官方文档翻译项目](https://github.com/CocoaChina-editors/Welcome-to-Swift)
+1. [伯乐在线IOS开发小组](http://www.jobbole.com/groups/10/)
