@@ -8,11 +8,65 @@ Swift中文教程
 我们的目标是，不止是翻译官方文档。在翻译的同时，加入自己的理解。让SwiftGuide项目成为一个更加接地气的教程。辅助以源码、实例分析和翻译人员多年IOS经验。在介绍Swift同时也讲解如何将Swift应用在IOS编程实践当中。  
 
 
-感谢每一位参与到项目中的小伙伴们。
+感谢每一位参与到项目中的小伙伴们。也欢迎更多的小伙伴加入到我们中来，更欢迎小伙伴们以我们这个项目为契机一起交流Swift。
 
 
-##教程目录
+#如何加入项目
 
+1. 在项目issue里面认领相关章节的任务，评论一下即可。
+2. fork本项目，并且开始您的翻译工作。正如上面，所说我们不止要翻译官网，如果仅是直译的话，不如看英文文档。在您的翻译中，请尽量加入您思想的火花。
+3. 之后会将您加入到JobboleEditor我们的翻译小组中。并且可加入QQ群（337129897）与更多的翻译者交流。
+4. 在翻译完成后 pull request到本项目中。接受小伙伴的检阅：）
+
+
+#目录  
+
+```
+项目临时按照Swift官方文档的目录结构来组织。后续随着项目的进行，目录结构可能会发生改变。
+```
+
+## Swift简介
+
+-  About Swift
+
+## Language Guide
+
+-  The Basics
+-  Basic Operators
+-  Strings and Characters
+-  Collection Types
+-  Control Flow
+-  Functions
+-  Closures
+-  Enumerations
+-  Classes and Structures
+-  Properties
+-  Methods
+-  Subscripts
+-  Inheritance
+-  Initialization
+-  Deinitialization
+-  Automatic Reference Counting
+-  Optional Chaining
+-  Type Casting
+-  Nested Types
+-  Extensions
+-  Protocols
+-  Generics
+-  Advanced Operators
+
+## Language Reference
+
+-  About the Language Reference
+-  Lexical Structure
+-  Types
+-  Expressions
+-  Statements
+-  Declarations
+-  Attributes
+-  Patterns
+-  Generic Parameters and Arguments
+-  Summary of the Grammar
 
 
 ##官方文档
