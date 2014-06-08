@@ -31,8 +31,8 @@ Swift中文教程
 
 ## Language Guide
 
--  [The Basics]()
--  Basic Operators
+-  The Basics
+-  [Basic Operators]()
 -  Strings and Characters
 -  Collection Types
 -  Control Flow
