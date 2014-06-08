@@ -27,11 +27,11 @@ Swift中文教程
 
 ## Swift简介
 
--  About Swift
+-  [About Swift]()
 
 ## Language Guide
 
--  The Basics
+-  [The Basics]()
 -  Basic Operators
 -  Strings and Characters
 -  Collection Types
